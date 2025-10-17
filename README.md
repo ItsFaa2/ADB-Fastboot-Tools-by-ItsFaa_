@@ -1,6 +1,7 @@
 # 🌟ADB & Fastboot Tools by ItsFaa_
 
 # 📦Requirements (recommended)
+- Python3
 - pip install ttkbootstrap
 - adb & fastboot in PATH C:/
 
