@@ -1,8 +1,8 @@
-# ADB-Fastboot-Tools-by-ItsFaa_
+# 🌟ADB & Fastboot Tools by ItsFaa_
 
-# Requirements (recommended)
+# 📦Requirements (recommended)
 - pip install ttkbootstrap
 - adb & fastboot in PATH C:/
 
-# Downloads and Install Tools
+# ⬇️Downloads and Install Tools
 Platform Tools: https://developer.android.com/tools/releases/platform-tools
